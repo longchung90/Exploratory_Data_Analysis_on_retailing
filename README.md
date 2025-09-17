@@ -74,9 +74,8 @@ Exploratory_Data_Analysis_on_retailing/
 │   └── processed/          # Cleaned datasets  
 │
 │── notebooks/              # Jupyter notebooks with step-by-step analysis  
-│   ├── 01_data_cleaning.ipynb  
-│   ├── 02_data_wrangling.ipynb  
-│   └── 03_visualisation.ipynb  
+│   ├── UK_retail_exploratory_data_analysis.ipynb  
+│
 │
 │── results/                # Outputs, charts, and summary tables  
 │   ├── figures/            # Visualisations (png, jpg)  
