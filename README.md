@@ -1,4 +1,6 @@
-# 🛍️ Exploratory Data Analysis on Online Retail  
+# 🛍️ Exploratory Data Analysis on Online Retail 
+
+[UK_retail_exploratory_data_analysis](notebooks/UK_retail_exploratory_data_analysis.ipynb)  
 
 ![Retail EDA Banner](/results/figures/banners/banner_EDA.png)  
 
