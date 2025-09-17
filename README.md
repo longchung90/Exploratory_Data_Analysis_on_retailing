@@ -1,6 +1,6 @@
 # 🛍️ Exploratory Data Analysis on Online Retail  
 
-![Retail EDA Banner](results/figures/banner/banner_1.png)  
+![Retail EDA Banner](/results/figures/banners/banner_EDA.png)  
 
 ## 📖 Project Overview  
 This project explores a large-scale **online retail dataset** with over **541,000 transactions**, containing details of products, quantities, prices, countries, and timestamps.  
